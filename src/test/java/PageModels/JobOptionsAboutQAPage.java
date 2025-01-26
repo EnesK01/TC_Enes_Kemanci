@@ -1,10 +1,5 @@
 package PageModels;
 
-import Utils.UseableMethodsForTransactions;
-import io.cucumber.java.an.E;
-import io.cucumber.java.be.I;
-import io.cucumber.java.en_old.Ac;
-import org.apache.poi.ss.formula.functions.T;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;

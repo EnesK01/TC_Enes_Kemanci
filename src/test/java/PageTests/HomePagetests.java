@@ -2,12 +2,8 @@ package PageTests;
 
 import PageModels.HomePage;
 import Utils.UseableMethodsForTransactions;
-import io.cucumber.java.AfterAll;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.apache.commons.io.FileUtils;
-import org.checkerframework.checker.units.qual.C;
-import org.junit.After;
-import org.junit.Before;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
